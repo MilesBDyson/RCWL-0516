@@ -1,5 +1,5 @@
 
-Python scripts for RCWL-0516 motion detector on Beaglebone Black
+Python3 scripts for RCWL-0516 motion detector on Beaglebone Black
 
 | Board pin name | Board pin | Beaglebone Black pin name |
 |----------------|-----------| --------------------------|
