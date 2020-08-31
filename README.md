@@ -1,6 +1,13 @@
 
 Python3 scripts for RCWL-0516 motion detector on Beaglebone Black
 
+NOTE:
+-----
+this sensor will detect any type of movement, it uses microwave
+radar and does not use inferred to detect movement if you wish to
+detect only inferred use the HC-SR501 sensor.
+
+
 | Board pin name | Board pin | Beaglebone Black pin name |
 |----------------|-----------| --------------------------|
 | GND            | 1         | P9\_1, Ground             |
